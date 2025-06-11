@@ -37,4 +37,7 @@ To predict dynamic ride fares based on:
 
 ✅ The model drastically outperforms a simple base fare estimate based on ride duration.
 
+### 📷 Output Preview
+
+![Output Preview](output_preview.jpg)
 
