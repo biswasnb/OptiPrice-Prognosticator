@@ -39,5 +39,5 @@ To predict dynamic ride fares based on:
 
 ### 📷 Output Preview
 
-![Output Preview](output_preview.jpg)
+![Output Preview](output_preview.JPG)
 
